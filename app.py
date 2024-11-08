@@ -66,9 +66,9 @@ with ui.sidebar(open="open"):
 
     ui.hr()
     ui.a(
-        "GitHub",
-        href= "https://github.com/Queensdelight/cintel-02-data/tree/main",
-        target="_blank"
+        "Github",
+        href="https://github.com/Queensdelight/cintel-03-reactive/edit/main/app.py",
+        target="_blank",
     )
 
 with ui.layout_columns():
